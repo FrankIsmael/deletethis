@@ -4,4 +4,5 @@ change of branch2
 line of branch3 
 ifm/2
 ifm/1
-last line
+last ifm/2
+
